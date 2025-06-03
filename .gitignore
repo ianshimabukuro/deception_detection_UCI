@@ -2,4 +2,8 @@
 /frames_false/
 /frames_neutral/
 /frames_true/
+/dataset/
+/datasets/
+/runs/
+
 *.zip
