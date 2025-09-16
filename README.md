@@ -1,4 +1,4 @@
-# Deception Detection (UCI)
+# Deception Detection using Frame Level Classification
 
 This repository contains code for a video-based deception detection pipeline using **YOLOv8 classification**. The system processes videos into frames, annotates them with human input, organizes them into train/val/test datasets, and trains a YOLOv8 classifier to detect truth, deception, or neutral expressions.  
 
