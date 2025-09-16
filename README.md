@@ -27,12 +27,13 @@ This repository contains code for a video-based deception detection pipeline usi
 Extract frames from a video:
 ```bash
 python annotation_vid_2_tvt_folders.py
-```bash
+```
 
 ### 2. Annotation
-   Run the clicker tool to label frames:
-   ```bash
-   python clicker.py
+Run the clicker tool to label frames:
+```bash
+python clicker.py
+```
 
 ### 3. Dataset Preparation
 `annotation_vid_2_tvt_folders.py` also:  
