@@ -45,11 +45,13 @@ python clicker.py
 Train a YOLOv8 classifier:
 ```bash
 python train.py
+```
 
 ### 5. Inference
 Run webcam inference with trained weights:
 ```bash
 python inference.py
+```
 
 
 ## Example Data Flow
