@@ -18,4 +18,7 @@ This repository contains code for a video-based deception detection pipeline usi
    ```bash
    git clone https://github.com/ianshimabukuro/deception_detection_UCI.git
    cd deception_detection_UCI
+2. Install dependencies:
+   ```bash
+   pip install ultralytics opencv-python keyboard
    
