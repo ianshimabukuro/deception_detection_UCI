@@ -22,15 +22,16 @@ This repository contains code for a video-based deception detection pipeline usi
    ```bash
    pip install ultralytics opencv-python keyboard
 ## Workflow
+
 ### 1. Frame Extraction
-Extract frames from a video:
-```bash
-python annotation_vid_2_tvt_folders.py
+   Extract frames from a video:
+   ```bash
+   python annotation_vid_2_tvt_folders.py
 
 ### 2. Annotation
-Run the clicker tool to label frames:
-```bash
-python clicker.py
+   Run the clicker tool to label frames:
+   ```bash
+   python clicker.py
 
 ### 3. Dataset Preparation
 `annotation_vid_2_tvt_folders.py` also:  
